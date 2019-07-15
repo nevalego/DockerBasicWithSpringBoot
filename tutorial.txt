@@ -1,0 +1,23 @@
+Instalar Docker Desktop
+Clic para comenzar su ejecución, en la barra de tareas aparece icono de ballena
+
+Abrir una linea de comandos
+Asegurar que es una versión soportadad por Docker
+docker --version
+
+docker pull hello-world
+docker run hello-world
+Listar la imagen hello-world
+docker image ls
+Listar el contenedor hello-world que muestra la info al ejecutar
+docker container ls --all
+Explorar la ayuda
+docker --help
+
+
+En Intelij, VCS, Checkout from version control, git
+Log in to Github... nevalego
+https://github.com/docker/labs
+Yes, Import project, Maven, Search fot projects recursively
+Import Maven project automatically
+
